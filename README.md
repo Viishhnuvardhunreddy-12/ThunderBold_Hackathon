@@ -1,6 +1,7 @@
 # ThunderBold_Hackathon
 
 Rainfall Pattern Prediction
+
 📌 Problem Statement
 
 Build a machine learning model to predict rainfall in Indian cities using historical weather data.
