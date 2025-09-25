@@ -1,4 +1,6 @@
-# ThunderBold_Hackathon
+# ThunderBolt_Hackathon
+
+Team Name : Model_Mavricks
 
 Rainfall Pattern Prediction
 
