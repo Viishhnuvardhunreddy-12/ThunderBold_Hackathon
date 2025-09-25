@@ -34,7 +34,7 @@ Environment: Jupyter Notebook
 
 ⚙ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/rainfall-pattern-prediction.git
+git clone https://github.com/Viishhnuvardhunreddy-12/ThunderBold_Hackathon.git
 cd rainfall-pattern-prediction
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
